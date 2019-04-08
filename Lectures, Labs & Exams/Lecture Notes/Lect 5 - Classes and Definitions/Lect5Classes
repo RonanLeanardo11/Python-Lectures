@@ -1,0 +1,6 @@
+class car:
+    make = 'Ford'
+    model = 'Fiesta'
+    engineCC = 1.2
+
+print(car)
